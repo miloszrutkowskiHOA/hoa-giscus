@@ -1,0 +1,8 @@
+{
+  "origins": [
+    "https://stackblitzstarterszor9xe-0xsv--4200--7dbe22a9.local-credentialless.webcontainer.io/"
+  ],
+  "originsRegex": [
+    "https://stackblitzstarterszor9xe-0xsv--4200--7dbe22a9.local-credentialless.webcontainer.io/[0-9]+"
+  ]
+}
